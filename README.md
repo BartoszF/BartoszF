@@ -13,7 +13,7 @@ If it comes to code, I prefer doing backend, but I know a thing or two about fro
   - [ ] DevOps stuff (ansible, kubernetes)
   - [ ] Get better with AWS
   - [ ] Start a blog to consolidate new knowledge, share some wicked things I did and train writing in English 📕
-  - [ ] Continue working on "Project Space" 🚀
+  - [ ] Continue working on Tasker 🚀
 
 
 PS. GraphQL is awesome ❤️, we should get rid of REST already.
