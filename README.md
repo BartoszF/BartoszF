@@ -1,6 +1,6 @@
 ## Hi, I am Bartosz Felis
 
-I am currently working as Software Developer in Networked Assets, using mostly Java and Spring. 
+I am currently working as Software Developer in Networked Assets, using mostly Kotlin and Spring. 
 I am fascinated about computers since I was 3 years old, hence my broad interests in IT.
 
 If it comes to code, I prefer doing backend, but I know a thing or two about frontend as well - I could do some prototypes in React, but I am not so good with styling and React-code architecture.
