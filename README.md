@@ -16,7 +16,7 @@ Web application for "managing" household:
 - You can track products in your whole household (Storages)
 - You can make shopping lists
 - You can add products from storage to shopping lists and vice versa
-- There will be section to track chores
+- You can track chores and tasks
 - Plans for cookbooks and meal planning
 - Even more planned, time will tell, when it will be implemented ;)
 
