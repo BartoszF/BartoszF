@@ -20,8 +20,13 @@ Web application for "managing" household:
 - Plans for cookbooks and meal planning
 - Even more planned, time will tell, when it will be implemented ;)
 
+### [llang](https://github.com/BartoszF/L-Lang)
+Interpreted, dynamically-typed language written in Kotlin.
+
+Based on jlox from Crafting Interpreters, but further modified (some syntax changes and more features).
+
 ## To do (learning, training, etc)
-  - [ ] DevOps stuff (ansible, kubernetes)
+  - [ ] DevOps stuff (~~ansible~~, kubernetes)
   - [ ] Get better with AWS
   - [ ] Start a blog to consolidate new knowledge, share some wicked things I did and train writing in English 📕
   - [ ] Continue working on Tasker 🚀
