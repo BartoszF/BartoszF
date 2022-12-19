@@ -23,7 +23,7 @@ Web application for "managing" household:
 ### [llang](https://github.com/BartoszF/L-Lang)
 Interpreted, dynamically-typed language written in Kotlin.
 
-Based on jlox from Crafting Interpreters, but further modified (some syntax changes and more features).
+Based on jlox from [Crafting Interpreters](https://craftinginterpreters.com), but further modified (some syntax changes and more features).
 
 ## To do (learning, training, etc)
   - [ ] DevOps stuff (~~ansible~~, kubernetes)
