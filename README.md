@@ -12,7 +12,7 @@ If it comes to code, I prefer doing backend, but I know a thing or two about fro
 ## Some projects available for public use
 
 ### [Tasker](https://tasker.felis.ovh) 
-Web application for "managing" household:
+Web application for household "management":
 - You can track products in your whole household (Storages)
 - You can make shopping lists
 - You can add products from storage to shopping lists and vice versa
